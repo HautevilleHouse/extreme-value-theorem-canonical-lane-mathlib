@@ -1,0 +1,3 @@
+import ExtremeValueTheoremCanonicalLaneLean.Basic
+import ExtremeValueTheoremCanonicalLaneLean.GateLemmas
+import ExtremeValueTheoremCanonicalLaneLean.FinalTheorem
